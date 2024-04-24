@@ -1,0 +1,15 @@
+Title: House Brands KPIs
+Author: Bobby Fatemi
+Type: Shiny
+Version: 0.1
+Imports:
+  shiny,
+  shinydashboard,
+  shinydashboardPlus,
+  data.table,
+  stringr,
+  ggplot2,
+  ggthemes,
+  scales,
+  lubridate
+DisplayMode: Normal
